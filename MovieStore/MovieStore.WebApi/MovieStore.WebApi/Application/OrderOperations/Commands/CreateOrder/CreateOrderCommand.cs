@@ -7,7 +7,9 @@ namespace MovieStore.WebApi.Application.OrderOperations.Commands.CreateOrder
 {
 	public class CreateOrderCommand
 	{
-		public CreateOrderModel Model { get; set; }
+		public int CustomerId { get; set; }  // Artık burada tutulacak
+		public int MovieId { get; set; }     // Sadece movie ID dışarıdan alınacak
+
 		private readonly IMovieStoreDbContext _context;
 
 		public CreateOrderCommand(IMovieStoreDbContext context)
@@ -17,8 +19,8 @@ namespace MovieStore.WebApi.Application.OrderOperations.Commands.CreateOrder
 
 		public void Handle()
 		{
-			var customer = _context.Customers.FirstOrDefault(x => x.Id == Model.CustomerId);
-			var movie = _context.Movies.FirstOrDefault(x => x.Id == Model.MovieId && x.IsActive);
+			var customer = _context.Customers.FirstOrDefault(x => x.Id == CustomerId);
+			var movie = _context.Movies.FirstOrDefault(x => x.Id == MovieId && x.IsActive);
 
 			if (customer == null)
 				throw new InvalidOperationException("Müşteri bulunamadı.");
@@ -26,10 +28,14 @@ namespace MovieStore.WebApi.Application.OrderOperations.Commands.CreateOrder
 			if (movie == null)
 				throw new InvalidOperationException("Film bulunamadı veya pasif durumda.");
 
+			var alreadyOrdered = _context.Orders.Any(o => o.CustomerId == CustomerId && o.MovieId == MovieId);
+			if (alreadyOrdered)
+				throw new InvalidOperationException("Bu film zaten satın alınmış.");
+
 			var order = new Order
 			{
-				CustomerId = Model.CustomerId,
-				MovieId = Model.MovieId,
+				CustomerId = CustomerId,
+				MovieId = MovieId,
 				Price = movie.Price,
 				PurchaseDate = DateTime.Now
 			};
@@ -37,11 +43,10 @@ namespace MovieStore.WebApi.Application.OrderOperations.Commands.CreateOrder
 			_context.Orders.Add(order);
 			_context.SaveChanges();
 		}
-	}
 
-	public class CreateOrderModel
-	{
-		public int CustomerId { get; set; }
-		public int MovieId { get; set; }
+		public class CreateOrderRequestModel
+		{
+			public int MovieId { get; set; }
+		}
 	}
 }

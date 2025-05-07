@@ -6,8 +6,8 @@ namespace MovieStore.WebApi.Application.OrderOperations.Commands.CreateOrder
 	{
 		public CreateOrderCommandValidator()
 		{
-			RuleFor(x => x.Model.CustomerId).GreaterThan(0);
-			RuleFor(x => x.Model.MovieId).GreaterThan(0);
+			RuleFor(x => x.CustomerId).GreaterThan(0);
+			RuleFor(x => x.MovieId).GreaterThan(0);
 		}
 	}
 }

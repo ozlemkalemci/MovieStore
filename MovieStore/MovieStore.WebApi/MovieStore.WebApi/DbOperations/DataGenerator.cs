@@ -67,6 +67,24 @@ namespace MovieStore.WebApi.DbOperations
 				new ActorMovie { MovieId = movie2.Id, ActorId = actor1.Id } // örnek olsun
 			);
 
+			// Customers
+			var customer1 = new Customer
+			{
+				FirstName = "John",
+				LastName = "Doe",
+				Email = "john@example.com",
+				Password = "123456"
+			};
+
+			var customer2 = new Customer
+			{
+				FirstName = "Jane",
+				LastName = "Smith",
+				Email = "jane@example.com",
+				Password = "abcdef"
+			};
+
+			context.Customers.AddRange(customer1, customer2);
 			context.SaveChanges();
 		}
 	}

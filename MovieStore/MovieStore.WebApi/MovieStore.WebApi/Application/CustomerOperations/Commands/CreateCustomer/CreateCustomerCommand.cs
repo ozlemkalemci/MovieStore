@@ -27,7 +27,9 @@ namespace MovieStore.WebApi.Application.CustomerOperations.Commands.CreateCustom
 			var customer = new Customer
 			{
 				FirstName = Model.FirstName,
-				LastName = Model.LastName
+				LastName = Model.LastName,
+				Email = Model.Email,
+				Password = Model.Password // ileride hashlenebilir
 			};
 
 			_context.Customers.Add(customer);
@@ -39,5 +41,7 @@ namespace MovieStore.WebApi.Application.CustomerOperations.Commands.CreateCustom
 	{
 		public string FirstName { get; set; }
 		public string LastName { get; set; }
+		public string Email { get; set; }
+		public string Password { get; set; }
 	}
 }

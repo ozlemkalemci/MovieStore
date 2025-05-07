@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\dboperations\\moviestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\dboperations\\moviestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\dboperations\\imoviestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\dboperations\\imoviestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\dboperations\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\dboperations\\datagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\application\\orderoperations\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\application\\orderoperations\\commands\\createorder\\createordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\tokenoperations\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\tokenoperations\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\tokenoperations\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\tokenoperations\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\tokenoperations\\models\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\tokenoperations\\models\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\tokenoperations\\interfaces\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\tokenoperations\\interfaces\\itokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\application\\authoperations\\logincustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\application\\authoperations\\logincustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\application\\authoperations\\models\\logincustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\application\\authoperations\\models\\logincustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\application\\customeroperations\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\application\\customeroperations\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\application\\customeroperations\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\application\\customeroperations\\commands\\createcustomer\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|c:\\users\\lonovo\\documents\\github\\moviestore\\moviestore\\moviestore.webapi\\moviestore.webapi\\tokenoperations\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5A28B7-6268-45DE-A566-EFA1286B2B86}|MovieStore.WebApi\\MovieStore.WebApi.csproj|solutionrelative:moviestore.webapi\\tokenoperations\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +87,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovieStoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\MovieStoreDbContext.cs",
-              "RelativeDocumentMoniker": "MovieStore.WebApi\\DbOperations\\MovieStoreDbContext.cs",
-              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\MovieStoreDbContext.cs",
-              "RelativeToolTip": "MovieStore.WebApi\\DbOperations\\MovieStoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\DataGenerator.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\DbOperations\\DataGenerator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\DataGenerator.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\DbOperations\\DataGenerator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:16:07.425Z",
+              "WhenOpened": "2025-05-07T19:59:48.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IMovieStoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\IMovieStoreDbContext.cs",
-              "RelativeDocumentMoniker": "MovieStore.WebApi\\DbOperations\\IMovieStoreDbContext.cs",
-              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\DbOperations\\IMovieStoreDbContext.cs",
-              "RelativeToolTip": "MovieStore.WebApi\\DbOperations\\IMovieStoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:15:59.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Startup.cs",
               "RelativeDocumentMoniker": "MovieStore.WebApi\\Startup.cs",
               "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Startup.cs",
               "RelativeToolTip": "MovieStore.WebApi\\Startup.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwC0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:13:53.961Z",
+              "WhenOpened": "2025-05-07T19:53:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\appsettings.json",
+              "RelativeToolTip": "MovieStore.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T20:03:02.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RequestLoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Middlewares\\RequestLoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "MovieStore.WebApi\\Middlewares\\RequestLoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Middlewares\\RequestLoggingMiddleware.cs",
-              "RelativeToolTip": "MovieStore.WebApi\\Middlewares\\RequestLoggingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "CreateOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\OrderOperations\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Application\\OrderOperations\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\OrderOperations\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Application\\OrderOperations\\Commands\\CreateOrder\\CreateOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:13:37.673Z",
+              "WhenOpened": "2025-05-07T20:01:10.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "MovieStore.WebApi\\Middlewares\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "MovieStore.WebApi\\Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Common\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T19:13:17.927Z",
+              "WhenOpened": "2025-05-07T19:59:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:51:30.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\TokenOperations\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Models\\Token.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\TokenOperations\\Models\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:52:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Models\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\TokenOperations\\Models\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Models\\TokenOptions.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\TokenOperations\\Models\\TokenOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:45:31.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Services\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\TokenOperations\\Services\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Services\\TokenHandler.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\TokenOperations\\Services\\TokenHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:45:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Interfaces\\ITokenHandler.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\TokenOperations\\Interfaces\\ITokenHandler.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\Interfaces\\ITokenHandler.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\TokenOperations\\Interfaces\\ITokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:46:46.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\AuthOperations\\LoginCustomerCommand.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Application\\AuthOperations\\LoginCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\AuthOperations\\LoginCustomerCommand.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Application\\AuthOperations\\LoginCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:50:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginCustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\AuthOperations\\Models\\LoginCustomerModel.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Application\\AuthOperations\\Models\\LoginCustomerModel.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\AuthOperations\\Models\\LoginCustomerModel.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Application\\AuthOperations\\Models\\LoginCustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:50:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:49:20.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Application\\CustomerOperations\\Commands\\CreateCustomer\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:49:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\Entities\\Customer.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:48:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "MovieStore.WebApi\\TokenOperations\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\TokenOperations\\TokenHandler.cs",
+              "RelativeToolTip": "MovieStore.WebApi\\TokenOperations\\TokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:45:05.3Z",
               "EditorCaption": ""
             }
           ]

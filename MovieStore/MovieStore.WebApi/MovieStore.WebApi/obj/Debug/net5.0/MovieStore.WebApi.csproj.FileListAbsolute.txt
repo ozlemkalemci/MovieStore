@@ -41,3 +41,10 @@ C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieSt
 C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\obj\Debug\net5.0\MovieStore.WebApi.pdb
 C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\obj\Debug\net5.0\MovieStore.WebApi.genruntimeconfig.cache
 C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\obj\Debug\net5.0\ref\MovieStore.WebApi.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lonovo\Documents\GitHub\MovieStore\MovieStore\MovieStore.WebApi\MovieStore.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
