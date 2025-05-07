@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lonovo\\Desktop\\Pratikler\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj": {}
+    "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lonovo\\Desktop\\Pratikler\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj": {
+    "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lonovo\\Desktop\\Pratikler\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj",
         "projectName": "MovieStore.WebApi",
-        "projectPath": "C:\\Users\\lonovo\\Desktop\\Pratikler\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj",
+        "projectPath": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\MovieStore.WebApi.csproj",
         "packagesPath": "C:\\Users\\lonovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lonovo\\Desktop\\Pratikler\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\lonovo\\Documents\\GitHub\\MovieStore\\MovieStore\\MovieStore.WebApi\\MovieStore.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
